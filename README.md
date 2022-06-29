@@ -9,6 +9,8 @@ With Python 3.10+ installed:
 
 Navigate to the root of this project
 
+`poetry shell`
+
 `poetry install`
 
 `python manage.py makemigrations dbpush`
